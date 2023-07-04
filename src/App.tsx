@@ -6,7 +6,7 @@ import List from "./components/List";
 
 function App() {
   return (
-    <div className="bg-dark-700">
+    <div>
       <Add />
       <List />
     </div>
